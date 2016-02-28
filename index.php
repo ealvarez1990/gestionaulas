@@ -175,6 +175,12 @@
                             Sign in
                         </button>  
                     </div>
+                    <br><br>
+                    <div class="row">
+                        <div class="col col-md-2">
+                             <a class="title" href="https://github.com/ealvarez1990/gestionaulas.git">Ver en GitHub <i class="fa fa-github fa-2x"></i></a>
+                        </div>
+                    </div>
 
                 </div>
                 
